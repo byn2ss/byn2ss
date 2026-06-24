@@ -14,7 +14,6 @@
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge\&logo=apachekafka\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ---
@@ -24,7 +23,7 @@
 | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------- |
 | **1. Découvrez votre formation de Data Engineer**              | Prepare your learning path and install the essential tools to succeed in the program.     | Planning, Git                     |
 | **2. Analysez les données de systèmes éducatifs**              | Perform descriptive statistics and visual exploration on education datasets using Python. | Python, Pandas                    |
-| **3. Entraînez‑vous avec SQL et créez votre BDD**              | Model a relational schema and build it with SQL from scratch, then populate with data.    | PostgreSQL, SQL                   |
+| **3. Entraînez‑vous avec SQL et créez votre BDD**              | Model a relational schema and build it with SQL from scratch, then populate with data.    | SQLite, SQL                   |
 | **4. Auditez un environnement de données**                     | Reverse‑engineer an existing data platform, assess risks and propose improvements.        | Cloud Architecture, Documentation |
 | **5. Maintenez et documentez un système de stockage sécurisé** | Optimise, secure and document an on‑prem/virtualised data storage stack.                  | Docker, MySQL                |
 | **6. Anticipez les besoins en consommation de bâtiments**      | Build and serve a machine‑learning model to forecast city building energy use.            | Scikit‑learn, BentoML             |
